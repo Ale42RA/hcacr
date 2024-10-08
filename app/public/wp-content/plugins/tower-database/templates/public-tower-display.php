@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center; /* Center the cards within the container */
-    width: 200%; /* Ensure the total row spans 70% of the screen */
+    width: 500%; /* Ensure the total row spans 70% of the screen */
     margin: 0 auto; /* Center the container on the screen */
 }
 
