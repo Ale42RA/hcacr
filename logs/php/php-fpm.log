@@ -1,0 +1,79 @@
+[05-Oct-2024 17:06:31] NOTICE: fpm is running, pid 5177
+[05-Oct-2024 17:06:31] NOTICE: ready to handle connections
+[05-Oct-2024 17:07:03] NOTICE: Terminating ...
+[05-Oct-2024 17:07:03] NOTICE: Terminating ...
+[05-Oct-2024 17:07:03] NOTICE: exiting, bye-bye!
+[05-Oct-2024 17:07:04] NOTICE: fpm is running, pid 5369
+[05-Oct-2024 17:07:04] NOTICE: ready to handle connections
+[05-Oct-2024 17:32:33] NOTICE: Terminating ...
+[05-Oct-2024 17:32:33] NOTICE: Terminating ...
+[05-Oct-2024 17:32:33] NOTICE: exiting, bye-bye!
+[05-Oct-2024 20:04:01] NOTICE: fpm is running, pid 6656
+[05-Oct-2024 20:04:01] NOTICE: ready to handle connections
+[05-Oct-2024 20:05:01] NOTICE: Terminating ...
+[05-Oct-2024 20:05:01] NOTICE: Terminating ...
+[05-Oct-2024 20:05:01] NOTICE: exiting, bye-bye!
+[05-Oct-2024 20:05:03] NOTICE: fpm is running, pid 6738
+[05-Oct-2024 20:05:03] NOTICE: ready to handle connections
+[05-Oct-2024 20:05:42] NOTICE: Terminating ...
+[05-Oct-2024 20:05:42] NOTICE: Terminating ...
+[05-Oct-2024 20:05:42] NOTICE: exiting, bye-bye!
+[05-Oct-2024 20:06:07] NOTICE: fpm is running, pid 6908
+[05-Oct-2024 20:06:07] NOTICE: ready to handle connections
+[05-Oct-2024 21:43:53] NOTICE: Terminating ...
+[05-Oct-2024 21:43:53] NOTICE: Terminating ...
+[05-Oct-2024 21:43:53] NOTICE: exiting, bye-bye!
+[06-Oct-2024 20:48:47] NOTICE: fpm is running, pid 10342
+[06-Oct-2024 20:48:47] NOTICE: ready to handle connections
+[06-Oct-2024 20:49:18] NOTICE: Terminating ...
+[06-Oct-2024 20:49:18] NOTICE: Terminating ...
+[06-Oct-2024 20:49:18] NOTICE: exiting, bye-bye!
+[06-Oct-2024 20:49:35] NOTICE: fpm is running, pid 10443
+[06-Oct-2024 20:49:35] NOTICE: ready to handle connections
+[06-Oct-2024 21:23:05] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:23:05] ERROR: FPM initialization failed
+[06-Oct-2024 21:23:06] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:23:06] ERROR: FPM initialization failed
+[06-Oct-2024 21:23:06] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:23:06] ERROR: FPM initialization failed
+[06-Oct-2024 21:23:07] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:23:07] ERROR: FPM initialization failed
+[06-Oct-2024 21:25:24] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:25:24] ERROR: FPM initialization failed
+[06-Oct-2024 21:25:25] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:25:25] ERROR: FPM initialization failed
+[06-Oct-2024 21:25:25] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:25:25] ERROR: FPM initialization failed
+[06-Oct-2024 21:25:26] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:25:26] ERROR: FPM initialization failed
+[06-Oct-2024 21:42:41] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:42:41] ERROR: FPM initialization failed
+[06-Oct-2024 21:42:42] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:42:42] ERROR: FPM initialization failed
+[06-Oct-2024 21:42:42] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:42:42] ERROR: FPM initialization failed
+[06-Oct-2024 21:42:43] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:42:43] ERROR: FPM initialization failed
+[06-Oct-2024 21:43:55] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:43:55] ERROR: FPM initialization failed
+[06-Oct-2024 21:43:56] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:43:56] ERROR: FPM initialization failed
+[06-Oct-2024 21:43:56] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:43:56] ERROR: FPM initialization failed
+[06-Oct-2024 21:43:57] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:43:57] ERROR: FPM initialization failed
+[06-Oct-2024 21:48:56] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:48:56] ERROR: FPM initialization failed
+[06-Oct-2024 21:48:57] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:48:57] ERROR: FPM initialization failed
+[06-Oct-2024 21:48:57] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:48:57] ERROR: FPM initialization failed
+[06-Oct-2024 21:48:58] ERROR: Another FPM instance seems to already listen on /Users/alejandrarivasadames/Library/Application Support/Local/run/vT44A4qMR/php/php-fpm.socket
+[06-Oct-2024 21:48:58] ERROR: FPM initialization failed
+[07-Oct-2024 17:19:19] NOTICE: fpm is running, pid 6917
+[07-Oct-2024 17:19:19] NOTICE: ready to handle connections
+[07-Oct-2024 18:09:06] NOTICE: Terminating ...
+[07-Oct-2024 18:09:06] NOTICE: Terminating ...
+[07-Oct-2024 18:09:06] NOTICE: exiting, bye-bye!
+[08-Oct-2024 11:31:34] NOTICE: fpm is running, pid 8926
+[08-Oct-2024 11:31:34] NOTICE: ready to handle connections
