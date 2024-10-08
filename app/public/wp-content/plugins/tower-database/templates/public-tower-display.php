@@ -1,4 +1,4 @@
-
+<style>
 .tower-cards-container {
     display: flex;
     flex-wrap: wrap;
@@ -6,15 +6,15 @@
     justify-content: flex-start;
 }
 .tower-card {
-    background-color: #00fa47;
+    background-color: red;
     border: 1px solid #ddd;
     border-radius: 8px;
     width: 100%;
-    max-width: 23%; /* Ensure max 4 cards per row */
+    max-width: 23%;
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
-    text-align: center; /* Center content */
+    text-align: center;
 }
 .tower-card-header h2 {
     margin: 0;
@@ -32,41 +32,38 @@
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto; /* Center the image */
+    margin: 0 auto;
     border-radius: 8px;
 }
 
 /* Ensure responsiveness */
 @media (max-width: 1200px) {
     .tower-card {
-        max-width: 31%; /* 3 cards per row on medium screens */
+        max-width: 31%;
     }
 }
 @media (max-width: 900px) {
     .tower-card {
-        max-width: 48%; /* 2 cards per row on smaller screens */
+        max-width: 48%;
     }
 }
 @media (max-width: 600px) {
     .tower-card {
-        max-width: 100%; /* 1 card per row on very small screens */
+        max-width: 100%;
     }
 }
-.table {
-    width: 100%;
-    border-collapse: collapse;
-}
+</style>
 
-.table th, .table td {
-    border: 1px solid #b40b0b;
-    padding: 8px;
-}
-
-.table th {
-    background-color: #de0404;
-    text-align: left;
-}
-
-.table tr:nth-child(even) {
-    background-color: #ca0d0d;
-}
+<div class="tower-cards-container">
+    <?php foreach ($towers as $tower): ?>
+        <div class="tower-card">
+            <div class="tower-card-header">
+                <h2><?php echo esc_html($tower->Town  . " , " .$tower->Dedication); ?></h2>
+            </div>
+            <div class="tower-card-body">
+                <img src="<?php echo esc_url( wp_upload_dir()['baseurl'] . '/tower/' . $tower->Photograph ); ?>" alt="<?php echo esc_attr($tower->Photograph); ?>">
+                <p>Bells: <?php echo esc_html($tower->Number_of_bells); ?></p>
+            </div>
+        </div>
+    <?php endforeach; ?>
+</div>

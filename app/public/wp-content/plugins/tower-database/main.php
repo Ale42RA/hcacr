@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Tower Manager Plugin 11
+ * Plugin Name: Tower Database Plugin
  * Description: A plugin to manage tower database with tower_id, name, and bells in the WordPress dashboard.
- * Version: 2.0
+ * Version: 3.0
  * Author: A
  */
 
